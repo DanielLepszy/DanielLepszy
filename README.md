@@ -17,6 +17,7 @@
  <code><img src=https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16475775581551942134-512.png alt=postman width="40" height="40"/></code>
 
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielLepszy&show_icons=true&theme=merko)
 
