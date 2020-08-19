@@ -1,4 +1,4 @@
-###  Welcome to my github profile 👋👋
+###  Welcome to my github profile 👋👋 :polish_flag:
 
 ## I'm [Daniel](https://daniellepszy.github.io/Portfolio/)
 
@@ -13,8 +13,8 @@
 
  
 </p>
- 
-# My name is Daniel. I am Automation Test Engineer from Poland.
+  
+ I am Automation Test Engineer from Poland.
 
 - 🔭 I’m currently working on ... testing web page
 - 🌱 I’m currently learning ... dasda
