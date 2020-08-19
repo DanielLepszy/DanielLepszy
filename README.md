@@ -18,7 +18,7 @@
 api/top-langs?username=DanielLepszy
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api/top-langs?username=DanielLepszy)](https://github.com/DanielLepszy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api/top-langs?username=DanielLepszy)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielLepszy&show_icons=true&theme=merko)
 
 - 🔭 I’m currently working on ... testing web page
