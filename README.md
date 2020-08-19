@@ -4,6 +4,12 @@
 
 <p>I'm Automation Test Engineer from Poland. I'm focus on web application testing in various environment using many tools to automate our test process. :rocket:</p>
  
+ 
+- 🔭 I’m currently working on own test [library](https://github.com/DanielLepszy/POMtesting-lib) based on Page Object Model
+- 🌱 I’m currently learning Jenkins to improve CI/CD process.
+- 📫 How to reach me: [Portfolio](https://daniellepszy.github.io/Portfolio/)
+
+
 
 **Languages and Tools:**  
 
@@ -18,19 +24,13 @@
 
 </p>
 
-## I 
+## 
+<p> Statistics: </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLepszy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielLepszy&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on ... testing web page
-- 🌱 I’m currently learning ... dasda
-- 👯 I’m looking to collaborate on ... dasd
-- 🤔 I’m looking for help with ... dasd
-- 💬 Ask me about ... dsa 
-- 📫 How to reach me: ... d asd
-- 😄 Pronouns: ... dd s
-- ⚡ Fun fact: ... sd 
+
 
