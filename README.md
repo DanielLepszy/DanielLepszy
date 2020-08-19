@@ -1,7 +1,7 @@
 ###  Welcome to my github profile 👋👋
 
 ## I'm [Daniel](https://daniellepszy.github.io/Portfolio/) and I work as Automation Test Engineer.
-
+<p align="center"><img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/></p>
  
 
 
