@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DanielLepszy/DanielLepszy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... testing web page
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... d asd
 - 😄 Pronouns: ... dd s
 - ⚡ Fun fact: ... sd 
--->
+
