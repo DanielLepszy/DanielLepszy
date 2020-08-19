@@ -1,9 +1,14 @@
 ###  Welcome to my github profile 👋👋
 
-## I'm [Daniel](https://daniellepszy.github.io/Portfolio/) and I work as Automation Test Engineer.
-<p align="center"><img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/></p>
- 
+## I'm [Daniel](https://daniellepszy.github.io/Portfolio/)
+<p align="center">
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+<i class="devicon-linkedin-plain-wordmark colored"></i>
+
+</p>
+ 
+# My name is Daniel. I am Automation Test Engineer from Poland.
 
 - 🔭 I’m currently working on ... testing web page
 - 🌱 I’m currently learning ... dasda
