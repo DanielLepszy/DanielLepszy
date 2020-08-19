@@ -1,10 +1,8 @@
 ### Hi everyone 👋. Welcome to my github profile ! I would like to introduce myself shortly !
 
 ## My name is [Daniel](https://daniellepszy.github.io/Portfolio/). I'm automation test engineer.
->
-Here are some ideas to get you started:
-
-
+ 
+ ## s
 
 - 🔭 I’m currently working on ... testing web page
 - 🌱 I’m currently learning ... dasda
