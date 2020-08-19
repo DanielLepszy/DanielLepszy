@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning Jenkins to improve CI/CD process.
 - 📫 How to reach me: [Portfolio](https://daniellepszy.github.io/Portfolio/)
 
-
+<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ##
 **Languages and Tools:**  
 
