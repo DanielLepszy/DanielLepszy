@@ -1,4 +1,4 @@
-###  Welcome to my github profile 👋👋 :polish_flag:
+###  Welcome to my github profile 👋👋  :jp:
 
 ## I'm [Daniel](https://daniellepszy.github.io/Portfolio/)
 
