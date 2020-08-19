@@ -1,4 +1,4 @@
-###  Welcome to my github profile 👋👋  :jp:
+###  Welcome to my github profile 👋👋   :de:
 
 ## I'm [Daniel](https://daniellepszy.github.io/Portfolio/)
 
