@@ -3,10 +3,10 @@
 ## I'm [Daniel](https://daniellepszy.github.io/Portfolio/)
 
 <p align="center">
- <img src=devicon.git/icons/chrome/chrome-original-wordmark.svg alt=chrome width="40" height="40"/>
- <img src=devicon.git/icons/firefox/firefox-original-wordmark.svg alt=firefox width="40" height="40"/>
- <img src=devicon.git/icons/java/java-original-wordmark.svg alt=java width="40" height="40"/>
-  <img src=devicon.git/icons/mysql/mysql-original-wordmark.svg alt=java width="40" height="40"/>
+ <img src=https://devicons.github.io/devicondevicon.git/icons/chrome/chrome-original-wordmark.svg alt=chrome width="40" height="40"/>
+ <img src=https://devicons.github.io/devicondevicon.git/icons/firefox/firefox-original-wordmark.svg alt=firefox width="40" height="40"/>
+ <img src=https://devicons.github.io/devicondevicon.git/icons/java/java-original-wordmark.svg alt=java width="40" height="40"/>
+ <img src=https://devicons.github.io/devicondevicon.git/icons/mysql/mysql-original-wordmark.svg alt=java width="40" height="40"/>
  
 </p>
  
