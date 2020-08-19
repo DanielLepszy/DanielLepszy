@@ -1,4 +1,4 @@
-###  Welcome to my github profile 👋👋   :de:
+###  Welcome to my github profile 👋👋
 
 ## I'm [Daniel](https://daniellepszy.github.io/Portfolio/)
 
@@ -18,7 +18,8 @@
 
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielLepszy&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielLepszy&show_icons=true&theme=merko)
+
 - 🔭 I’m currently working on ... testing web page
 - 🌱 I’m currently learning ... dasda
 - 👯 I’m looking to collaborate on ... dasd
