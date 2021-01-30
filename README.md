@@ -16,7 +16,7 @@
 **Languages and Tools:**  
 
 <p align="center">
-<!--  <img src=https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original-wordmark.svg alt=chrome width="40" height="40"/>
+<!--das  <img src=https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original-wordmark.svg alt=chrome width="40" height="40"/>
  <img src=https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original-wordmark.svg alt=firefox width="40" height="40"/> -->
  <code><img src=https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15484977381551942825-512.png alt=selenium width="40" height="40"/></code>
  <code><img src=https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="45" height="45"/></code>
