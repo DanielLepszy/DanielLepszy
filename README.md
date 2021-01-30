@@ -16,12 +16,12 @@
 **Languages and Tools:**  
 
 <p align="center">
-<!--das  <img src=https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original-wordmark.svg alt=chrome width="40" height="40"/>
+<!-- <img src=https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original-wordmark.svg alt=chrome width="40" height="40"/>
  <img src=https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original-wordmark.svg alt=firefox width="40" height="40"/> -->
  <code><img src=https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15484977381551942825-512.png alt=selenium width="40" height="40"/></code>
- <code><img src=https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="45" height="45"/></code>
- <code><img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mySQL width="50" height="50"/></code>
- <code><img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=js width="40" height="40"/></code>
+ <code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width="45" height="45"/></code>
+ <code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=mySQL width="50" height="50"/></code>
+ <code><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=js width="40" height="40"/></code>
  <code><img src=https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16475775581551942134-512.png alt=postman width="40" height="40"/></code>
   <code><img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="40" height="40"/></code>
 
